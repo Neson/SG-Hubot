@@ -3,11 +3,21 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
-  "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-self-uptime",
+  "hubot-auth",
+  "hubot-tell",
+  "hubot-codinglove",
+  "hubot-cute-me",
+  "hubot-darts",
+  "hubot-http-status",
+  "hubot-browserstack",
+  "hubot-9gag",
+  "hubot-what-the-fox",
+  "hubot-2048"
 ]
