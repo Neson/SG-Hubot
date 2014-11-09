@@ -19,6 +19,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-http-status": "^0.2.0",
+    "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
