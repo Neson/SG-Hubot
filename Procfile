@@ -1,1 +1,1 @@
-web: bin/hubot -a irc --name hubot
+web: bin/hubot -a xmpp --name hubot

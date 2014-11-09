@@ -30,6 +30,7 @@
     "hubot-slack": "^2.2.0",
     "hubot-tell": "^1.2.3",
     "hubot-what-the-fox": "^1.1.1",
+    "hubot-xmpp": "^0.1.12",
     "hubot-youtube": "^0.1.2",
     "sandbox": "^0.8.6"
   },
