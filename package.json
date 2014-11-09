@@ -5,7 +5,9 @@
   "author": "Neson <neson@dex.tw>",
   "description": "A simple helpful robot",
   "dependencies": {
+    "asciimo": "^0.3.1",
     "hubot": "^2.9.3",
+    "hubot-2048": "^1.0.1",
     "hubot-9gag": "^0.2.0",
     "hubot-auth": "^1.1.2",
     "hubot-browserstack": "^0.1.3",
@@ -32,7 +34,8 @@
     "hubot-what-the-fox": "^1.1.1",
     "hubot-xmpp": "^0.1.12",
     "hubot-youtube": "^0.1.2",
-    "sandbox": "^0.8.6"
+    "sandbox": "^0.8.6",
+    "underscore": "^1.7.0"
   },
   "engines": {
     "node": "0.10.x"
