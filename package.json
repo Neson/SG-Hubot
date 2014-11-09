@@ -6,7 +6,6 @@
   "description": "A simple helpful robot",
   "dependencies": {
     "hubot": "^2.9.3",
-    "hubot-2048": "^1.0.1",
     "hubot-9gag": "^0.2.0",
     "hubot-auth": "^1.1.2",
     "hubot-browserstack": "^0.1.3",

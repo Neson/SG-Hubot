@@ -18,6 +18,5 @@
   "hubot-http-status",
   "hubot-browserstack",
   "hubot-9gag",
-  "hubot-what-the-fox",
-  "hubot-2048"
+  "hubot-what-the-fox"
 ]
