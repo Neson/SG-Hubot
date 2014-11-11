@@ -6,7 +6,7 @@
   "description": "A simple helpful robot",
   "dependencies": {
     "asciimo": "^0.3.1",
-    "date-parser": "~0.0.2",
+    "date-parser": "~0.0.5",
     "hubot": "^2.9.3",
     "hubot-2048": "^1.0.1",
     "hubot-9gag": "^0.2.0",
@@ -36,6 +36,7 @@
     "hubot-xmpp": "^0.1.12",
     "hubot-youtube": "^0.1.2",
     "moment": "^2.8.3",
+    "moment-timezone": "^0.2.4",
     "sandbox": "^0.8.6",
     "underscore": "^1.7.0"
   },
